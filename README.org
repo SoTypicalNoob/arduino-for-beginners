@@ -1,0 +1,8 @@
+#+title: Readme
+
+* Arduino For Beginners - 2026 Complete Course
+Arduino Step by Step | Robotics | Hands-on | Arduino Projects | Home Automation | Arduino Programming
+
+Udemy course by Edouard Renard
+
+[[https://www.udemy.com/course/arduino-for-beginners-complete-course/][Arduino For Beginners - 2026 Complete Course]]
