@@ -1,8 +1,17 @@
-#+title: Readme
+#+title: Arduino For Beginners - 2026 Complete Course
 
-* Arduino For Beginners - 2026 Complete Course
 Arduino Step by Step | Robotics | Hands-on | Arduino Projects | Home Automation | Arduino Programming
 
 Udemy course by Edouard Renard
 
+*Hardware I used:* Arduino UNO R3
+
 [[https://www.udemy.com/course/arduino-for-beginners-complete-course/][Arduino For Beginners - 2026 Complete Course]]
+
+* Activity 01
+- Make the LED blink
+  - Power on the LED for 2 seconds
+  - Power off the LED for 1 seconds
+- Print some text when you power on/off the LED
+
+Note: On Arduino UNO the PB6 and PB7 ports are used for the 16 MHz clock source of the ATmega328P. They are not available as pins and SHOULD NOT be set as OUTPUT.
