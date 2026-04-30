@@ -15,3 +15,8 @@ Udemy course by Edouard Renard
 - Print some text when you power on/off the LED
 
 Note: On Arduino UNO the PB6 and PB7 ports are used for the 16 MHz clock source of the ATmega328P. They are not available as pins and SHOULD NOT be set as OUTPUT.
+
+* Activity 02
+LED is fading in and out
+- for loop 0 -> 255 (fade in)
+- for loop 255 -> 0 (fade out)
